@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Header](./github-header.png)
+![Body](./gatogif.gif)
 <!--
 **str26/str26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
