@@ -4,7 +4,7 @@
 
 <!--
 **str26/str26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
-<!--# 💫 About Me:
+ 💫 About Me:
 🔭 Actualmente estoy trabajando en mi lógica de programación<br><br>🌱 Estoy aprendiendo Python y Data<br><br>👯 Pensando en colaborar y practicar en Datacamp<br><br>👨‍💻 Todos mis proyectos lo puedes ver aqui, poquitos pero los encuentras<br><br>💬 Preguntas? Libro abierto sobre ansiedad/depresión, cambios, life, geopolítica y claro, programación<br><br>⚡ Nunca es tarde para girar el timón
 
 
@@ -29,4 +29,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=str26&icon=7&color=5)](https://visitcount.itsvg.in)
---!>
+
