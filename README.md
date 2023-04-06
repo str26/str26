@@ -2,13 +2,11 @@
 
 ![Header](./github-header-gif.gif)
 
-<!--
-**str26/str26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
  💫 About Me:
-🔭 Actualmente estoy trabajando en mi lógica de programación<br><br>🌱 Estoy aprendiendo Python y Data<br><br>👯 Pensando en colaborar y practicar en Datacamp<br><br>👨‍💻 Todos mis proyectos lo puedes ver aqui, poquitos pero los encuentras<br><br>💬 Preguntas? Libro abierto sobre ansiedad/depresión, cambios, life, geopolítica y claro, programación<br><br>⚡ Nunca es tarde para girar el timón
+🔭 Actualmente estoy trabajando en mi lógica de programación<br><br>🌱 Estoy aprendiendo Python y Data<br><br>👯 Pensando en colaborar y practicar en Datacamp<br><br>👨‍💻 Todos mis proyectos lo puedes ver aqui, poquitos pero los encuentras<br><br>💬 Preguntas? Libro abierto sobre ansiedad/depresión, cambios, life, geopolítica y claro, programación<br><br>⚡ Nunca es tarde para girar el timón<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/esther-ortegon-ladino) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/esther_ort) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/estherj_94) 
 
 # 💻 Tech Stack:
